@@ -1,7 +1,8 @@
 <?php
 
+// CRÉATION D'UN TABLEAU GÉNÉRAL
 $data = array(
-    0 => array(
+    0 => array( //PREMIER FORFAIT REPRÉSENTÉ PAR UN TABLEAU AVEC PROPRIÉTÉS
         "forfait" => "Punta Cana",
         "categorie" => "tout_inclus",
         "continent" => "Amérique du Nord",

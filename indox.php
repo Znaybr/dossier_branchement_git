@@ -1,5 +1,5 @@
 <?php
-    // initialisation ici
+
 ?>
 
 <!DOCTYPE html>
