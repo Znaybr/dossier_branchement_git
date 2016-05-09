@@ -11,7 +11,7 @@ $data = array(
         "duree_jours" => 10,
         "prix" => 1400,
         "inclus" => "Inclus: navette de l'aéroport, hôtel, resto (deux repas), plage, piscine, buffet, bar, nombreux spectacles et activités locales.",
-        "photo" => "mexique.jpg",
+        "photo" => "images/mexique.jpg",
     ),
     1 => array(
         "forfait" => "Au Coeur de Banff",
@@ -22,7 +22,7 @@ $data = array(
         "duree_jours" => 12,
         "prix" => 2200,
         "inclus" => "Inclus: navette de l'aéroport, transport sur le site, guide expérimenté et bivoic.",
-        "photo" => "vancouver.jpg",
+        "photo" => "images/vancouver.jpg",
     ),
     2 => array(
         "forfait" => "Charme, Raffinement, Thaïlande",
@@ -33,7 +33,7 @@ $data = array(
         "duree_jours" => 15,
         "prix" => 8200,
         "inclus" => "Inclus: navette de l'aéroport, hôtel, voiture avec ou sans chauffeur, resto (deux repas), plage, piscine, lounge, bar, nombreux spectacles et activités",
-        "photo" => "thailande.jpg",
+        "photo" => "images/thailande.jpg",
     ),
 
 );
